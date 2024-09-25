@@ -27,6 +27,9 @@ Response: <200 Status>
 Initialize the LangChain Hugginface Pipeline
 using GPT2 opensource model
 
+Insomnia Screenshot
+![img.png](img.png)
+
 ```
 Post /chat/
 
@@ -44,4 +47,6 @@ Response: <200 Status>
 }
 
 ```
+This API ask a prompt for the user then output the response from the model
 
+![img_1.png](img_1.png)
